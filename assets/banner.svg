@@ -1,0 +1,231 @@
+<svg fill="none" viewBox="0 0 1200 360" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Linear Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradients -->
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.85" />
+    </linearGradient>
+
+    <linearGradient id="shiftCyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <linearGradient id="shiftPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#d946ef" />
+    </linearGradient>
+
+    <linearGradient id="shiftAmber" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#ef4444" />
+    </linearGradient>
+
+    <linearGradient id="shiftGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .banner-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 38px;
+      font-weight: 800;
+      fill: #ffffff;
+      letter-spacing: -0.5px;
+    }
+    .banner-subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      fill: #94a3b8;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .grid-line {
+      stroke: #334155;
+      stroke-opacity: 0.25;
+      stroke-width: 1;
+      stroke-dasharray: 4,4;
+    }
+    .card-label {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      fill: #cbd5e1;
+    }
+  </style>
+
+  <!-- Deep Tech Background -->
+  <rect width="1200" height="360" rx="16" fill="url(#bgGrad)" />
+
+  <!-- Subtle Blueprint Grid Pattern -->
+  <g class="grid-line">
+    <line x1="80" y1="0" x2="80" y2="360" />
+    <line x1="240" y1="0" x2="240" y2="360" />
+    <line x1="400" y1="0" x2="400" y2="360" />
+    <line x1="560" y1="0" x2="560" y2="360" />
+    <line x1="720" y1="0" x2="720" y2="360" />
+    <line x1="880" y1="0" x2="880" y2="360" />
+    <line x1="1040" y1="0" x2="1040" y2="360" />
+    <line x1="0" y1="90" x2="1200" y2="90" />
+    <line x1="0" y1="180" x2="1200" y2="180" />
+    <line x1="0" y1="270" x2="1200" y2="270" />
+  </g>
+
+  <!-- Animated Glowing Ambient Orbs (Background layer) -->
+  <circle cx="200" cy="80" r="140" fill="#38bdf8" opacity="0.12">
+    <animate attributeName="r" values="120;150;120" dur="8s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.08;0.16;0.08" dur="8s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1020" cy="180" r="160" fill="#818cf8" opacity="0.12">
+    <animate attributeName="r" values="140;175;140" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.09;0.18;0.09" dur="10s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Dynamic Right Schedule Dashboard (Decorative Glass Panel) -->
+  <g transform="translate(680, 45)">
+    <!-- Glass Panel Base -->
+    <rect width="470" height="270" rx="14" fill="url(#cardGrad)" stroke="#475569" stroke-opacity="0.4" stroke-width="1.5" />
+    
+    <!-- Timeline Header -->
+    <rect x="20" y="20" width="430" height="34" rx="8" fill="#0f172a" fill-opacity="0.6" />
+    <circle cx="38" cy="37" r="5" fill="#ef4444" />
+    <circle cx="54" cy="37" r="5" fill="#f59e0b" />
+    <circle cx="70" cy="37" r="5" fill="#10b981" />
+    <text x="95" y="41" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" fill="#94a3b8">WFM LIVE DISPATCH &amp; SHIFT ROSTER</text>
+
+    <!-- Real-time Status Pulse -->
+    <circle cx="430" cy="37" r="4" fill="#22c55e">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="365" y="41" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" fill="#22c55e">OPTIMIZED</text>
+
+    <!-- Shift Block 1: Shift Cyan (Animated Glide) -->
+    <g>
+      <rect x="30" y="75" width="160" height="38" rx="8" fill="url(#shiftCyan)">
+        <animate attributeName="x" values="30;45;30" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.9;1;0.9" dur="6s" repeatCount="indefinite" />
+      </rect>
+      <text x="45" y="99" class="card-label">Morning Shift A • 08:00 - 16:00</text>
+    </g>
+
+    <!-- Shift Block 2: Shift Purple (Animated Pulse) -->
+    <g>
+      <rect x="210" y="75" width="220" height="38" rx="8" fill="url(#shiftPurple)">
+        <animate attributeName="x" values="210;200;210" dur="7s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.85;1;0.85" dur="7s" repeatCount="indefinite" />
+      </rect>
+      <text x="225" y="99" class="card-label">Field Ops Coverage • Lead Roster</text>
+    </g>
+
+    <!-- Shift Block 3: Shift Amber (Animated Glide) -->
+    <g>
+      <rect x="60" y="128" width="220" height="38" rx="8" fill="url(#shiftAmber)">
+        <animate attributeName="x" values="60;75;60" dur="8s" repeatCount="indefinite" />
+      </rect>
+      <text x="75" y="152" class="card-label">Afternoon Shift B • Auto-Balanced</text>
+    </g>
+
+    <!-- Shift Block 4: Shift Green -->
+    <g>
+      <rect x="300" y="128" width="140" height="38" rx="8" fill="url(#shiftGreen)">
+        <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" repeatCount="indefinite" />
+      </rect>
+      <text x="315" y="152" class="card-label">Overtime Fill • 99.4%</text>
+    </g>
+
+    <!-- Bottom Stat Metrics Strip -->
+    <g transform="translate(30, 185)">
+      <rect width="125" height="60" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+      <text x="14" y="24" font-family="sans-serif" font-size="10" fill="#94a3b8">Labor Forecast</text>
+      <text x="14" y="47" font-family="sans-serif" font-size="18" font-weight="700" fill="#38bdf8">98.6%</text>
+
+      <rect x="140" width="125" height="60" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+      <text x="154" y="24" font-family="sans-serif" font-size="10" fill="#94a3b8">Active Shifts</text>
+      <text x="154" y="47" font-family="sans-serif" font-size="18" font-weight="700" fill="#a855f7">1,420+</text>
+
+      <rect x="280" width="130" height="60" rx="8" fill="#1e293b" fill-opacity="0.8" stroke="#334155" stroke-width="1" />
+      <text x="294" y="24" font-family="sans-serif" font-size="10" fill="#94a3b8">Constraint Solver</text>
+      <text x="294" y="47" font-family="sans-serif" font-size="18" font-weight="700" fill="#34d399">0 Violations</text>
+    </g>
+
+    <!-- Scanning Radar Line Animation -->
+    <line x1="30" y1="65" x2="30" y2="175" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" opacity="0.75" filter="url(#glow)">
+      <animate attributeName="x1" values="30;430;30" dur="4.5s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="30;430;30" dur="4.5s" repeatCount="indefinite" />
+    </line>
+  </g>
+
+  <!-- Left Header Content (Foreground: Always Crisp & Unobstructed) -->
+  <g transform="translate(60, 55)">
+    <!-- Pill Badge -->
+    <rect width="250" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1" />
+    <circle cx="16" cy="14" r="5" fill="#38bdf8">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="30" y="18" fill="#38bdf8" class="badge-text">CURATED AWESOME DIRECTORY</text>
+
+    <!-- Main Title -->
+    <text x="0" y="80" class="banner-title">
+      Awesome Workforce
+    </text>
+    <text x="0" y="125" class="banner-title" fill="url(#neonCyan)">
+      Management &amp; Scheduling
+    </text>
+
+    <!-- Subtitle / Value Proposition -->
+    <text x="0" y="170" class="banner-subtitle">
+      Enterprise SaaS suites, AI rostering engines, shift planners,
+    </text>
+    <text x="0" y="194" class="banner-subtitle">
+      and open-source labor optimization platforms.
+    </text>
+
+    <!-- Capability Tag Pills -->
+    <g transform="translate(0, 222)">
+      <!-- Pill 1 -->
+      <rect width="130" height="26" rx="13" fill="#0f172a" stroke="#334155" stroke-width="1" />
+      <text x="65" y="17" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="500" fill="#cbd5e1">AI Auto-Scheduling</text>
+      
+      <!-- Pill 2 -->
+      <rect x="140" width="130" height="26" rx="13" fill="#0f172a" stroke="#334155" stroke-width="1" />
+      <text x="205" y="17" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="500" fill="#cbd5e1">Shift Rostering</text>
+
+      <!-- Pill 3 -->
+      <rect x="280" width="130" height="26" rx="13" fill="#0f172a" stroke="#334155" stroke-width="1" />
+      <text x="345" y="17" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="500" fill="#cbd5e1">Time &amp; Attendance</text>
+
+      <!-- Pill 4 -->
+      <rect x="420" width="125" height="26" rx="13" fill="#0f172a" stroke="#334155" stroke-width="1" />
+      <text x="482" y="17" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="500" fill="#cbd5e1">Constraint Solvers</text>
+    </g>
+  </g>
+</svg>
