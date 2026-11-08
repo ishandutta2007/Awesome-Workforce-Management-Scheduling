@@ -2,51 +2,55 @@
   <img src="assets/banner.svg" alt="Awesome Workforce Management & Scheduling" width="100%">
 </p>
 
-# Awesome Workforce Management & Scheduling
+# ⏰ Awesome Workforce Management & Scheduling 📅
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Follow on GitHub](https://img.shields.io/github/followers/ishandutta2007?label=Follow%20%40ishandutta2007&style=social)](https://github.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/foloowers/ishandutta2007?label=Follow" /></a>
 
-> **A comprehensive, SEO-optimized curated directory of Workforce Management (WFM) software, employee scheduling tools, automated shift rostering platforms, labor optimization engines, and open-source self-hosted solutions.**
+> **🚀 A comprehensive, SEO-optimized curated directory of Workforce Management (WFM) software, employee scheduling tools, automated shift rostering platforms, labor optimization engines, and open-source self-hosted solutions.** 🌟
 
-Whether you are managing hourly staff in restaurants, healthcare facilities, and retail stores, or architecting large-scale enterprise shift planning algorithms with constraint solvers, this guide provides side-by-side pricing, company scale benchmarks, free tier limits, and GitHub activity metrics.
+Whether you are managing hourly staff in restaurants 🍽️, healthcare facilities 🏥, and retail stores 🛍️, or architecting large-scale enterprise shift planning algorithms with constraint solvers 🧠, this guide provides side-by-side pricing 💵, company scale benchmarks 📊, free tier limits 🎁, and GitHub activity metrics ⭐.
 
 ---
 
 ## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [Commercial & SaaS Solutions](#-commercial--saas-solutions)
-  - [SaaS Solutions Comparison Matrix](#saas-solutions-comparison-matrix)
-  - [Detailed SaaS Platform Highlights](#detailed-saas-platform-highlights)
-- [Open-Source & Self-Hosted Software](#-open-source--self-hosted-software)
-  - [Open-Source Solutions Comparison](#open-source-solutions-comparison)
-  - [Detailed Open-Source Project Highlights](#detailed-open-source-project-highlights)
-- [Key Selection Criteria for WFM Systems](#-key-selection-criteria-for-wfm-systems)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 Commercial & SaaS Solutions](#-commercial--saas-solutions)
+  - [📊 SaaS Solutions Comparison Matrix](#-saas-solutions-comparison-matrix)
+  - [🔍 Detailed SaaS Platform Highlights](#-detailed-saas-platform-highlights)
+- [💻 Open-Source & Self-Hosted Software](#-open-source--self-hosted-software)
+  - [⭐ Open-Source Solutions Comparison](#-open-source-solutions-comparison)
+  - [🛠️ Detailed Open-Source Project Highlights](#️-detailed-open-source-project-highlights)
+- [🎯 Key Selection Criteria for WFM Systems](#-key-selection-criteria-for-wfm-systems)
+- [🌟 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
 ## 📈 Sector Overview & Market Dynamics
 
-The global Workforce Management (WFM) software market is valued at approximately **$9.3B–$11.7B in 2025** and is projected to expand to **$13B–$17.2B+ by 2030**, growing at a steady Compound Annual Growth Rate (CAGR) of **8.5% to 10.1%**.
+The global Workforce Management (WFM) software market is valued at approximately **$9.3B–$11.7B in 2025** 🌐 and is projected to expand to **$13B–$17.2B+ by 2030** 🚀, growing at a steady Compound Annual Growth Rate (CAGR) of **8.5% to 10.1%** 📈.
 
-The sector exhibits a **hybrid market structure: highly concentrated among multi-billion-dollar conglomerates at the enterprise tier (e.g., UKG, Workday, Paylocity, SAP, Oracle), yet distinctly fragmented at the mid-market and SME levels**, where hundreds of vertical-specific and mobile-first point solutions compete aggressively on AI shift auto-scheduling, POS/payroll connectors, and frontline worker experience.
+The sector exhibits a **hybrid market structure: highly concentrated among multi-billion-dollar conglomerates at the enterprise tier (e.g., UKG, Workday, Paylocity, SAP, Oracle) 🏛️, yet distinctly fragmented at the mid-market and SME levels** 🧩, where hundreds of vertical-specific and mobile-first point solutions compete aggressively on AI shift auto-scheduling 🤖, POS/payroll connectors 🔗, and frontline worker experience 📱.
 
 ---
 
-## 🟦 Commercial & SaaS Solutions
+## 🏢 Commercial & SaaS Solutions
 
-Commercial cloud-hosted workforce management suites engineered for automated shift generation, GPS geofenced timeclocks, break/overtime compliance, and payroll synchronization.
+Commercial cloud-hosted workforce management suites engineered for automated shift generation 🗓️, GPS geofenced timeclocks 📍, break/overtime compliance ⚖️, and payroll synchronization 💳.
 
-### SaaS Solutions Comparison Matrix
+### 📊 SaaS Solutions Comparison Matrix
 
-*The table below is ordered by company scale (enterprise valuation / market capitalization / revenue) in descending order.*
+*The table below is ordered by company scale (enterprise valuation / market capitalization / revenue) in descending order 📉.*
 
-| Platform | Company Scale (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Free Trial Limits | Key Specialization | Target Organization |
+| 🏢 Platform | 💰 Company Scale (Valuation / Revenue) | 🏷️ Starting Tier Pricing | 🎁 Free Tier / Free Trial Limits | ⚡ Key Specialization | 🎯 Target Organization |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[UKG Pro WFM](https://www.ukg.com)** | **~$22B Valuation** (~$4.7B annual revenue) | **$26.00 / employee / month** (enterprise WFM suite estimate) | **No free tier**; No self-serve trial (custom enterprise sales demo & RFP scoping only) | AI agent workforce orchestration (Bryte AI), complex union compliance, multi-country payroll | Large enterprises, healthcare hospital networks, global manufacturing |
 | **[Paylocity](https://www.paylocity.com)** | **~$9.2B Market Cap** (~$1.7B annual revenue) | **$22.00 / employee / month** (all-in HCM & scheduling base) | **No free tier**; No public self-serve trial (custom live guided product demo only) | Unified HCM, mobile self-service shift swaps, geofenced mobile timeclock, payroll | Mid-to-enterprise organizations desiring all-in-one HR + scheduling |
@@ -61,69 +65,69 @@ Commercial cloud-hosted workforce management suites engineered for automated shi
 
 ---
 
-### Detailed SaaS Platform Highlights
+### 🔍 Detailed SaaS Platform Highlights
 
-#### UKG Pro Workforce Management
-- **Overview:** Enterprise-grade workforce management and human capital management suite powered by Bryte AI agents.
-- **Key Capabilities:** Real-time labor compliance enforcement (mandated break windows, overtime caps, union agreements), multi-country payroll integration, demand-driven schedule generation.
+#### 🏢 UKG Pro Workforce Management
+- **Overview:** Enterprise-grade workforce management and human capital management suite powered by Bryte AI agents 🤖.
+- **Key Capabilities:** Real-time labor compliance enforcement (mandated break windows, overtime caps, union agreements) ⚖️, multi-country payroll integration 🌐, demand-driven schedule generation 📈.
 - **Best Fit:** Global multi-site enterprises in manufacturing, healthcare systems, and national retail chains.
 
-#### Paylocity
-- **Overview:** Integrated cloud HCM and payroll platform offering integrated time, attendance, and shift scheduling.
-- **Key Capabilities:** Shift claiming and trading from native mobile apps, GPS geofenced clock-in, labor budget tracking, integrated tax filing and direct deposit payroll.
+#### 💼 Paylocity
+- **Overview:** Integrated cloud HCM and payroll platform offering integrated time, attendance, and shift scheduling 📱.
+- **Key Capabilities:** Shift claiming and trading from native mobile apps 🔄, GPS geofenced clock-in 📍, labor budget tracking 💰, integrated tax filing and direct deposit payroll 💳.
 - **Best Fit:** Mid-market organizations aiming to consolidate standalone scheduling tools into an all-in-one payroll and HR platform.
 
-#### Zoho People
-- **Overview:** Modular HRMS with structured shift planning, biometric attendance integration, and employee self-service.
-- **Key Capabilities:** Shift rotation scheduling, leave/holiday calendar synchronization, timesheet approval hierarchies, Zia AI bot assistants.
+#### 👥 Zoho People
+- **Overview:** Modular HRMS with structured shift planning, biometric attendance integration, and employee self-service 📑.
+- **Key Capabilities:** Shift rotation scheduling 🔄, leave/holiday calendar synchronization 📅, timesheet approval hierarchies ✔️, Zia AI bot assistants 🤖.
 - **Best Fit:** Organizations already utilizing Zoho CRM, Zoho Books, or Zoho One looking for cost-effective shift tracking.
 
-#### When I Work
-- **Overview:** Mobile-first shift builder designed for deskless and shift-based teams.
-- **Key Capabilities:** One-click schedule publishing, SMS/push shift notifications, shift swaps with manager approval workflows, geofenced mobile time clocking.
+#### ⏱️ When I Work
+- **Overview:** Mobile-first shift builder designed for deskless and shift-based teams 📲.
+- **Key Capabilities:** One-click schedule publishing ⚡, SMS/push shift notifications 🔔, shift swaps with manager approval workflows 🤝, geofenced mobile time clocking ⏱️.
 - **Best Fit:** Fast-moving hospitality, clinic, and retail businesses seeking quick setup without lengthy implementation cycles.
 
-#### Deputy
-- **Overview:** Global scheduling and time tracking software known for labor compliance and flexible pricing.
-- **Key Capabilities:** Fair Workweek compliance warnings, automated wage calculation against overtime laws, stress-free shift replacement, Flexi pricing for seasonal workers.
+#### 📋 Deputy
+- **Overview:** Global scheduling and time tracking software known for labor compliance and flexible pricing 🌐.
+- **Key Capabilities:** Fair Workweek compliance warnings ⚠️, automated wage calculation against overtime laws 💵, stress-free shift replacement 🔄, Flexi pricing for seasonal workers 👥.
 - **Best Fit:** Businesses with dynamic, fluctuating, or seasonal headcounts needing automated legal compliance checks.
 
-#### Quinyx
-- **Overview:** AI-first workforce management system emphasizing automated mathematical optimization and demand forecasting.
-- **Key Capabilities:** Deep learning demand prediction based on footfall and weather, automated shift optimization against employee preferences, real-time absence cover.
+#### 🧠 Quinyx
+- **Overview:** AI-first workforce management system emphasizing automated mathematical optimization and demand forecasting 🔮.
+- **Key Capabilities:** Deep learning demand prediction based on footfall and weather 🌤️, automated shift optimization against employee preferences 🎯, real-time absence cover 🛡️.
 - **Best Fit:** Complex retail, transport, and logistics companies with hundreds of employees per site.
 
-#### Homebase
-- **Overview:** Small-business operating system combining time clocks, scheduling, and local hiring.
-- **Key Capabilities:** Location-based flat pricing (independent of employee headcount), POS timecard sync (Clover, Square, Toast), automated labor compliance notifications.
+#### 🏠 Homebase
+- **Overview:** Small-business operating system combining time clocks, scheduling, and local hiring ☕.
+- **Key Capabilities:** Location-based flat pricing (independent of employee headcount) 🏷️, POS timecard sync (Clover, Square, Toast) 💳, automated labor compliance notifications 📋.
 - **Best Fit:** Independent local shops, cafes, restaurants, and medical practices with 1–2 physical locations.
 
-#### TCP Humanity (Humanity Schedule)
-- **Overview:** Cloud employee scheduling platform engineered by TCP Software for dynamic operations.
-- **Key Capabilities:** Conflict management algorithms, skill and certification verification before shift assignment, automated break staggered schedules.
+#### 🏥 TCP Humanity (Humanity Schedule)
+- **Overview:** Cloud employee scheduling platform engineered by TCP Software for dynamic operations 🚑.
+- **Key Capabilities:** Conflict management algorithms 🚫, skill and certification verification before shift assignment 📜, automated break staggered schedules ☕.
 - **Best Fit:** Organizations with certified staff requirements (e.g., healthcare providers, emergency response, universities).
 
-#### 7shifts
-- **Overview:** Dedicated workforce management software tailored exclusively for the restaurant and hospitality sector.
-- **Key Capabilities:** Real-time sales vs. labor percentage tracking via POS integrations, tip pooling calculation, break compliance, team chat.
+#### 🍴 7shifts
+- **Overview:** Dedicated workforce management software tailored exclusively for the restaurant and hospitality sector 🍕.
+- **Key Capabilities:** Real-time sales vs. labor percentage tracking via POS integrations 📊, tip pooling calculation 💵, break compliance ⏱️, team chat 💬.
 - **Best Fit:** Single-location restaurants through enterprise multi-unit hospitality operators.
 
-#### Sling
-- **Overview:** Visual scheduling and employee communication app built for shift-based businesses.
-- **Key Capabilities:** Drag-and-drop roster builder, recurring shift templates, internal messaging wall, overtime warning alerts.
+#### 💬 Sling
+- **Overview:** Visual scheduling and employee communication app built for shift-based businesses 🗣️.
+- **Key Capabilities:** Drag-and-drop roster builder 🖱️, recurring shift templates 📄, internal messaging wall 🗨️, overtime warning alerts ⚠️.
 - **Best Fit:** Budget-conscious managers looking for a clean UI and up to 30 free seats.
 
 ---
 
-## 🟩 Open-Source & Self-Hosted Software
+## 💻 Open-Source & Self-Hosted Software
 
-Self-hosted, transparent, and auditable open-source platforms for shift scheduling, constraint-based roster optimization, and workforce time tracking.
+Self-hosted, transparent, and auditable open-source platforms for shift scheduling 🗓️, constraint-based roster optimization 🧩, and workforce time tracking ⏱️.
 
-### Open-Source Solutions Comparison
+### ⭐ Open-Source Solutions Comparison
 
-*The table below is ordered by GitHub star count in descending order. Click on the badge to visit the stargazers page of the repository.*
+*The table below is ordered by GitHub star count in descending order 🌟. Click on the badge to visit the stargazers page of the repository.*
 
-| Project | GitHub Stars | Tech Stack | License | Core Focus | Architecture / Deployment |
+| 📦 Project | ⭐ GitHub Stars | 🛠️ Tech Stack | 📜 License | 🎯 Core Focus | 🏗️ Architecture / Deployment |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[ActivityWatch](https://github.com/ActivityWatch/activitywatch)** | [![GitHub Stars](https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social&color=white)](https://github.com/ActivityWatch/activitywatch/stargazers) | Python, Rust, Vue.js | MPL-2.0 | Privacy-first automated time & activity tracking | Cross-platform desktop daemon + web UI (Docker / Local) |
 | **[Frappe HR](https://github.com/frappe/hrms)** | [![GitHub Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers) | Python, Frappe, MariaDB, JS | GPL-3.0 | Complete open-source HRMS, shift types & attendance | Monolithic framework (Docker, Bench, Kubernetes) |
@@ -143,79 +147,98 @@ Self-hosted, transparent, and auditable open-source platforms for shift scheduli
 
 ---
 
-### Detailed Open-Source Project Highlights
+### 🛠️ Detailed Open-Source Project Highlights
 
-#### ActivityWatch
+#### 🔒 ActivityWatch
 - **Repo:** [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)  
-- **Description:** An open-source, privacy-first automated time tracker. It runs locally in the background across Linux, Windows, macOS, and Android, recording active window contexts and application usage without cloud tracking.  
+- **Description:** An open-source, privacy-first automated time tracker. It runs locally in the background across Linux, Windows, macOS, and Android, recording active window contexts and application usage without cloud tracking 🛡️.  
 - **Best For:** Developers, remote workers, and privacy-conscious teams needing transparent audit trails of time allocation.
 
-#### Frappe HR (ERPNext HRMS)
+#### 👥 Frappe HR (ERPNext HRMS)
 - **Repo:** [frappe/hrms](https://github.com/frappe/hrms)  
-- **Description:** The leading enterprise-grade open-source HR and payroll platform. Offers comprehensive shift management, shift type configuration, automatic roster assignments, biometric device integration, and salary slip computation.  
+- **Description:** The leading enterprise-grade open-source HR and payroll platform. Offers comprehensive shift management, shift type configuration, automatic roster assignments, biometric device integration, and salary slip computation 📑.  
 - **Best For:** Mid-size businesses seeking a self-hosted alternative to Workday or BambooHR with integrated shift rostering.
 
-#### solidtime
+#### ⏱️ solidtime
 - **Repo:** [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime)  
-- **Description:** A modern, beautifully designed open-source time-tracking platform built with Laravel and Vue 3. Features multi-organization support, granular project billing rates, team member tracking, and modern REST APIs.  
+- **Description:** A modern, beautifully designed open-source time-tracking platform built with Laravel and Vue 3. Features multi-organization support, granular project billing rates, team member tracking, and modern REST APIs 🎨.  
 - **Best For:** Software agencies, consultancies, and distributed engineering teams wanting a self-hosted Toggl alternative.
 
-#### Kimai
+#### 📊 Kimai
 - **Repo:** [kimai/kimai](https://github.com/kimai/kimai)  
-- **Description:** A battle-tested open-source time tracker built on Symfony and Doctrine. Tracks worked hours, calculates expenses, creates PDF/Excel invoices, and provides role-based permission control.  
+- **Description:** A battle-tested open-source time tracker built on Symfony and Doctrine. Tracks worked hours, calculates expenses, creates PDF/Excel invoices, and provides role-based permission control 💼.  
 - **Best For:** Organizations that need compliant time tracking and billing exports without per-seat SaaS costs.
 
-#### Timefold Solver
+#### 🧩 Timefold Solver
 - **Repo:** [TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver)  
-- **Description:** The open-source AI constraint solver (forked from OptaPlanner) written in Java and Python. Capable of solving complex NP-hard employee rostering challenges by balancing hard constraints (maximum work hours, rest periods, certifications) and soft constraints (shift preferences, fair weekend distribution).  
+- **Description:** The open-source AI constraint solver (forked from OptaPlanner) written in Java and Python. Capable of solving complex NP-hard employee rostering challenges by balancing hard constraints (maximum work hours, rest periods, certifications) and soft constraints (shift preferences, fair weekend distribution) ⚙️.  
 - **Best For:** Engineering teams building custom enterprise scheduling applications with complex operational constraints.
 
-#### Staffjoy V2
+#### 📦 Staffjoy V2
 - **Repo:** [Staffjoy/v2](https://github.com/Staffjoy/v2)  
-- **Description:** An open-source microservices architecture for shift scheduling originally built by Staffjoy. Includes services for scheduling, users, notification dispatch, and web frontends.  
+- **Description:** An open-source microservices architecture for shift scheduling originally built by Staffjoy. Includes services for scheduling, users, notification dispatch, and web frontends 🚀.  
 - **Best For:** Developers wanting an architectural blueprint for building scalable, cloud-native scheduling microservices.
 
-#### Traggo
+#### 🏷️ Traggo
 - **Repo:** [traggo/server](https://github.com/traggo/server)  
-- **Description:** A tag-based self-hosted time-tracking engine with a clean GraphQL API. Instead of rigid client/project hierarchies, Traggo uses flexible key-value tags to classify time entries.  
+- **Description:** A tag-based self-hosted time-tracking engine with a clean GraphQL API. Instead of rigid client/project hierarchies, Traggo uses flexible key-value tags to classify time entries 🏷️.  
 - **Best For:** Self-hosters looking for a lightweight, single-binary time tracker.
 
-#### Horilla HR
+#### 🐍 Horilla HR
 - **Repo:** [horilla-opensource/horilla](https://github.com/horilla-opensource/horilla)  
-- **Description:** A free, modular open-source HR software written in Python and Django. Features geofenced employee check-ins, attendance tracking, shift assignment calendars, and onboarding pipelines.  
+- **Description:** A free, modular open-source HR software written in Python and Django. Features geofenced employee check-ins, attendance tracking, shift assignment calendars, and onboarding pipelines 📝.  
 - **Best For:** Teams seeking an extensible Python/Django codebase for internal HR operations.
 
-#### pyworkforce
+#### 🧮 pyworkforce
 - **Repo:** [rodrigo-arenas/pyworkforce](https://github.com/rodrigo-arenas/pyworkforce)  
-- **Description:** A specialized Python library providing mathematical algorithms for workforce management: Erlang C queuing models for call center staffing, shift scheduling solvers, and multi-skill employee rostering.  
+- **Description:** A specialized Python library providing mathematical algorithms for workforce management: Erlang C queuing models for call center staffing, shift scheduling solvers, and multi-skill employee rostering 🔬.  
 - **Best For:** Data scientists, industrial engineers, and operations research specialists modeling workforce requirements in Python.
 
 ---
 
-## 🔍 Key Selection Criteria for WFM Systems
+## 🎯 Key Selection Criteria for WFM Systems
 
 When evaluating workforce management and employee scheduling platforms, consider the following technical and operational dimensions:
 
-1. **Scheduling Constraints vs. Visual Calendars:**
+1. **Scheduling Constraints vs. Visual Calendars 🗓️:**
    - Simple drag-and-drop calendars (e.g., Homebase, Sling, When I Work) work well for teams under 50 with straightforward shifts.
    - Algorithmic constraint solvers (e.g., Timefold, Quinyx, UKG) are essential when dealing with 100+ workers, union rules, skill certifications, and multi-jurisdictional labor regulations.
-2. **Pricing Structure (Per-User vs. Per-Location):**
+2. **Pricing Structure (Per-User vs. Per-Location) 💳:**
    - Single-location retail shops and restaurants benefit most from flat per-location pricing (Homebase, 7shifts).
    - Distributed remote or office teams typically benefit from per-user seat pricing (When I Work, Deputy, Sling).
-3. **Data Sovereignty & Privacy:**
+3. **Data Sovereignty & Privacy 🔐:**
    - Organizations handling sensitive employee biometric records or requiring zero third-party telemetry should choose self-hosted solutions like Frappe HR, Kimai, or solidtime.
-4. **Timeclock Integrity:**
+4. **Timeclock Integrity 📍:**
    - Evaluate geofencing accuracy, offline punch caching, mobile beacon support, and biometric terminal integrations to prevent buddy punching.
+
+---
+
+## 🌟 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Workforce-Management-Scheduling&type=date&legend=top-left)](https://star-histrry.dera.page/#ishandutta2007/Awesome-Workforce-Management-Scheduling&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated directory useful for your team, organization, or research, please consider supporting the project! 🌟
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and contribute** tools, libraries, or price updates.
+- 📢 **Share with colleagues** in HR tech, workforce operations, and engineering.
+- ☕ **Buy a coffee / Sponsor the author** via GitHub Sponsors:
+  
+  [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are warmly welcomed! Please read the guidelines below before opening a pull request:
+Contributions are warmly welcomed! 💡 Please read the guidelines below before opening a pull request:
 
-- **Adding a Commercial Solution:** Must include verified starting tier pricing, transparent free tier or trial limits, and company scale metrics.
-- **Adding an Open-Source Project:** Must link to an active public repository, specify the tech stack, license, and include the standard social star badge.
-- **Formatting:** Keep tables alphabetically or hierarchically sorted by the documented metric.
+- **Adding a Commercial Solution:** Must include verified starting tier pricing, transparent free tier or trial limits, and company scale metrics 📊.
+- **Adding an Open-Source Project:** Must link to an active public repository, specify the tech stack, license, and include the standard social star badge ⭐.
+- **Formatting:** Keep tables alphabetically or hierarchically sorted by the documented metric 📐.
 
 ```bash
 git checkout -b feature/add-new-wfm-tool
@@ -227,10 +250,10 @@ git push origin feature/add-new-wfm-tool
 
 ## 📄 License
 
-This repository and curated list are licensed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE). Commercial trademarks and logos belong to their respective owners.
+This repository and curated list are licensed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE) ⚖️. Commercial trademarks and logos belong to their respective owners.
 
 ---
 
 <p align="center">
-  <sub>Curated with care for engineering leaders, operations managers, and HR tech innovators. Star ⭐ the repository to keep it bookmarked!</sub>
+  <sub>Curated with care ❤️ for engineering leaders, operations managers, and HR tech innovators. Star ⭐ the repository to keep it bookmarked!</sub>
 </p>
